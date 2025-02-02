@@ -1,5 +1,5 @@
 # module "s3_bucket" {
-#   source      = "./aws-s3-bucket"
+#   source      = "./s3_bucket"
 #   bucket_name = "test-bucket"
 #   acl         = "private"
 # }
