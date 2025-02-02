@@ -3,4 +3,11 @@ provider "aws" {
   
 }
 
+terraform {
+  cloud {
+    organization = "Private_Registry"
+  }
+}
+
+
 
